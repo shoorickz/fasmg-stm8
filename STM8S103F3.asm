@@ -21,5 +21,4 @@ delay:
     
     jra  deadloop    
     
-    push CC
     
